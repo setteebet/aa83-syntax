@@ -1,0 +1,18 @@
+{
+  "name": "aa83-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "หวยdee✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยdee",
+"ซื้อหวยออนไลน์เว็บไหนดี",
+"lottovip support",
+"เว็บหวยมี",
+"lottovip เว็บหวย"
+],
+  "repository": "https://github.com/setteebet/aa83-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
